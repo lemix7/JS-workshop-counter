@@ -1,6 +1,6 @@
 # Simple Counter Web App
 
-A basic web application that allows users to increment and decrement a counter. Built using vanilla HTML, CSS, and JavaScript. This app features a minimal user interface (UI) and provides a simple, easy-to-use counter with clear buttons.
+A basic web application that allows users to increment and decrement a counter. Built using  HTML, CSS, and vanilla JavaScript. This app features a minimal user interface (UI) and provides a simple, easy-to-use counter with clear buttons.
 
 <img width="1298" alt="Screenshot 2024-12-09 at 1 05 45 AM" src="https://github.com/user-attachments/assets/a68fe3b4-f841-4bb4-ab08-42fc0b4ec3cc">
 
